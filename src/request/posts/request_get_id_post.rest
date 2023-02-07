@@ -1,0 +1,2 @@
+GET http://localhost:8080/posts?user=ica&id=1
+Content-Type: application/json

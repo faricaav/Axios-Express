@@ -1,0 +1,2 @@
+PUT http://localhost:8080/posts/put/1?user=ica
+Content-Type: application/json

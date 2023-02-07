@@ -1,0 +1,2 @@
+DELETE http://localhost:8080/posts/delete/1?user=ica
+Content-Type: application/json

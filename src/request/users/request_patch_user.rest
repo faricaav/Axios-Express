@@ -1,0 +1,2 @@
+PATCH http://localhost:8080/users/patch/2?user=ica
+Content-Type: application/json

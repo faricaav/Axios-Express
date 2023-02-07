@@ -1,2 +1,0 @@
-PUT http://localhost:8080/users/put/1
-Content-Type: application/json
